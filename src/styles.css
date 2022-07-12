@@ -61,6 +61,12 @@ button {
     width: 70%;
   }
 
+  #increment-btn,
+  #save-btn {
+    font-size: 15px;
+    padding: 4.5px;
+  }
+
   p {
     font-size: 23px;
   }

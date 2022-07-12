@@ -1,4 +1,5 @@
 // el = element
+
 // adding increments
 let countEl = document.getElementById("count-el");
 let count = 0;
@@ -8,7 +9,7 @@ function increment() {
   countEl.textContent = count;
 }
 
-//save all previous increments
+//save all previous entries
 
 let saveEl = document.getElementById("save-el");
 
