@@ -50,3 +50,18 @@ button {
   margin-bottom: 20px;
   padding: 10px;
 }
+
+@media (max-width: 645px) {
+  h1 {
+    font-size: 35px;
+  }
+
+  div.top-container {
+    margin-top: 125px;
+    width: 70%;
+  }
+
+  p {
+    font-size: 23px;
+  }
+}
