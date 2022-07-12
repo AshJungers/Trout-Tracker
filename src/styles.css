@@ -1,0 +1,52 @@
+body {
+  background-image: url("../images/troutscales.jpg");
+  background-size: cover;
+  background-color: #fff;
+}
+
+div.top-container {
+  border: solid;
+  border-radius: 5px;
+  border-width: thick;
+  background-color: #fef3db;
+  width: 40%;
+  margin: 100px auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 65px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+button {
+  margin-bottom: 12px;
+  padding: 10px 8px;
+}
+
+#increment-btn {
+  background-color: #be3e31;
+  color: #fef3db;
+  font-size: larger;
+  padding: 10px;
+}
+
+#save-btn {
+  background: #563b28;
+  color: #fef3db;
+  font-size: larger;
+  margin-bottom: 20px;
+  padding: 10px;
+}
